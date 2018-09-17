@@ -1,3 +1,3 @@
 # dress
-<h1>Theme :</h1>
+<h6>Theme :</h6>
 <p>dress-template</p>
